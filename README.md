@@ -13,13 +13,13 @@
 
 ## Benefits of JSONPowerDB
 
-  ### Developer Friendly
-  ### High Performance
-  ### Light Weight
-  ### AJAX Enabled
-  ### Serverless
-  ### Simple to Use
-  ### Real-time Database
+ * Developer Friendly
+ * High Performance
+ * Light Weight
+ * AJAX Enabled
+ * Serverless
+ * Simple to Use
+ * Real-time Database
 
 
 
